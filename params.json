@@ -1,0 +1,6 @@
+{
+  "siteTitle": "Mi sitio con Jekyll",
+  "defaultLanguage": "es",
+  "themeColor": "#FF5733",
+  "apiUrl": "https://mi-api.com/v1/"
+}
